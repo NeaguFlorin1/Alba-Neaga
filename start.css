@@ -1,0 +1,39 @@
+h1 {
+    border-left: 4px;
+    font-size: 55px;
+    font-weight: bold;
+    align-self: center;
+    text-align: center;
+    color : rgb(160, 30, 58);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#roll{
+    font-size : 50px;
+    box-sizing: border-box;
+    align-self: center;
+    text-align: justify;
+    width : 200px;
+    height: 140px;
+    background-color: rgb(169, 210, 224);
+
+}
+
+#refresh {
+    height : 53px;
+    width: 130px;
+
+}
+#refresh1 {
+    height : 53px;
+    width: 130px;
+}
+#container {
+    text-align :center ;
+    border-top: 40px;
+}
+
+#x {
+    font-size: 100px;
+}
